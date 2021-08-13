@@ -14,7 +14,7 @@ Credit card customers of the bank are leaving the services
 
 ## Result
 
-[Deployed website](https://infinite-hollows-10453.herokuapp.com/)
+[**Deployed website**](https://infinite-hollows-10453.herokuapp.com/)
 
 ---
 
